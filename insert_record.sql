@@ -1,4 +1,3 @@
-use fitnessmanagement;
 
 use fitnessmanagement;
 
